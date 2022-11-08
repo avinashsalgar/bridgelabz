@@ -1,4 +1,4 @@
-/*package com.bridgelabzday2;
+/package com.bridgelabzday2;
 
 
 public class operator {
@@ -22,6 +22,6 @@ public class operator {
             System.out.println( max(a,b));
         }
 
-    }*/
+    }
 
 
