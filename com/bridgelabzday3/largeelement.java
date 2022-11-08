@@ -1,4 +1,4 @@
-/*package com.bridgelabzday3;
+package com.bridgelabzday3;
 
 public class largeelement {
     public static void main(String[] args) {
@@ -15,5 +15,5 @@ public class largeelement {
         }
         System.out.println("Largest element present in given array: " + max);
     }
-}*/
+}
 
