@@ -5,13 +5,14 @@ import com.sun.jdi.Value;
 import static java.lang.System.*;
 
 //public class Assigmentday1 {
-    //static boolean val1;
-    //static double val2;
-    //static float val3;
-    //static int val4;
-    //static long val5;
-    //static String val6;
+  
    // public static void main(String[] args){
+           //boolean val1 = true;
+           //double val2 = 0.0;
+           //float val3 = 0;
+           //int val4 = 1;
+           //long val5 = 1000;
+           //String val6 = "Avinash";
 
         //System.out.println("Hello class");
         //System.out.println("Default value..");
